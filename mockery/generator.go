@@ -12,7 +12,7 @@ import (
 
 	"golang.org/x/tools/imports"
 
-	"github.com/vektra/errors"
+	"github.com/jafcrocker/errors"
 )
 
 type Generator struct {
